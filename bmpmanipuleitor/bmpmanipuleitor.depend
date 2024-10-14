@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1712571230 source:/home/ezequiel/Progra/BMP/bmpmanipuleitor/main.c
+	<stdio.h>
+	"funciones_estudiante.h"
+	"funciones_docente.h"
+	"constantes.h"
+
+1712621035 /home/ezequiel/Progra/BMP/bmpmanipuleitor/funciones_docente.h
+	"estructuras.h"
+
+1712621994 source:/home/ezequiel/Progra/BMP/bmpmanipuleitor/funciones_docente.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"estructuras.h"
+	"constantes.h"
+	"funciones_docente.h"
+
+1712539850 source:/home/ezequiel/Progra/BMP/bmpmanipuleitor/funciones_estudiante.c
+
+1712539559 /home/ezequiel/Progra/BMP/bmpmanipuleitor/funciones_estudiante.h
+
+1712591837 /home/ezequiel/Progra/BMP/bmpmanipuleitor/estructuras.h
+
+1712541473 /home/ezequiel/Progra/BMP/bmpmanipuleitor/constantes.h
+
+1715101243 source:c:\users\santi\onedrive\escritorio\unlam\programacion\topicos de programación\tp_20241c_viernes\tp_20241c_viernes\bmpmanipuleitor\funciones_estudiante.c
+	"constantes.h"
+
+1715098305 c:\users\santi\onedrive\escritorio\unlam\programacion\topicos de programación\tp_20241c_viernes\tp_20241c_viernes\bmpmanipuleitor\constantes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"estructuras.h"
+	"funciones_estudiante.h"
+
+1714768525 source:c:\users\santi\onedrive\escritorio\unlam\programacion\topicos de programación\tp_20241c_viernes\tp_20241c_viernes\bmpmanipuleitor\main.c
+	<stdio.h>
+	"funciones_estudiante.h"
+	"constantes.h"
+
+1715101243 c:\users\santi\onedrive\escritorio\unlam\programacion\topicos de programación\tp_20241c_viernes\tp_20241c_viernes\bmpmanipuleitor\funciones_estudiante.h
+	"constantes.h"
+
+1714750485 c:\users\santi\onedrive\escritorio\unlam\programacion\topicos de programación\tp_20241c_viernes\tp_20241c_viernes\bmpmanipuleitor\estructuras.h
+
+1714768525 source:c:\users\guido l\desktop\topÍcos\trabajo practico\spoiler_bmpmanipuleitor\bmpmanipuleitor\main.c
+	<stdio.h>
+	"funciones_estudiante.h"
+	"constantes.h"
+
+1715192136 c:\users\guido l\desktop\topÍcos\trabajo practico\spoiler_bmpmanipuleitor\bmpmanipuleitor\funciones_estudiante.h
+	"constantes.h"
+
+1715098305 c:\users\guido l\desktop\topÍcos\trabajo practico\spoiler_bmpmanipuleitor\bmpmanipuleitor\constantes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"estructuras.h"
+	"funciones_estudiante.h"
+
+1714750485 c:\users\guido l\desktop\topÍcos\trabajo practico\spoiler_bmpmanipuleitor\bmpmanipuleitor\estructuras.h
+
+1715193706 source:c:\users\guido l\desktop\topÍcos\trabajo practico\spoiler_bmpmanipuleitor\bmpmanipuleitor\funciones_estudiante.c
+	"constantes.h"
+
+1714768525 source:c:\users\guido l\desktop\trabajo practico topicos\spoiler_bmpmanipuleitor\bmpmanipuleitor\main.c
+	<stdio.h>
+	"funciones_estudiante.h"
+	"constantes.h"
+
+1716049536 c:\users\guido l\desktop\trabajo practico topicos\spoiler_bmpmanipuleitor\bmpmanipuleitor\funciones_estudiante.h
+	"constantes.h"
+
+1715098305 c:\users\guido l\desktop\trabajo practico topicos\spoiler_bmpmanipuleitor\bmpmanipuleitor\constantes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"estructuras.h"
+	"funciones_estudiante.h"
+
+1714750485 c:\users\guido l\desktop\trabajo practico topicos\spoiler_bmpmanipuleitor\bmpmanipuleitor\estructuras.h
+
+1716049979 source:c:\users\guido l\desktop\trabajo practico topicos\spoiler_bmpmanipuleitor\bmpmanipuleitor\funciones_estudiante.c
+	"constantes.h"
+
